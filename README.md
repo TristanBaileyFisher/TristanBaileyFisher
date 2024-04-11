@@ -1,6 +1,6 @@
 :wave: Hi, I'm Tristan! <br/>
 :star: Aspiring Front-end and Full-stack Developer showing my journey from start to finish of projects I have worked on up till now<br/>
-:school: Study at Te Pukenga / Wintec currently on my third and final year<br/>
+:school: Study at Te Pukenga / Wintec, New Zealand, currently on my third and final year<br/>
 📖 Currently learning about: Game-dev, App-dev, Software testing and Cyber Security.<br/>
 
 
